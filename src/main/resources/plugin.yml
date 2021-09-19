@@ -1,0 +1,5 @@
+name: LevelAttack
+version: '${project.version}'
+main: levelattack.levelattack.Levelattack
+author:
+  -Yun_Nan
